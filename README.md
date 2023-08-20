@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Cloud & Devops**
+- 🌱 I’m currently learning **Cloud & DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **ahmedkamalmohamady@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GvJV1_DVAyoB10qwzDjfJKy8Q-LKx1XD/view?usp=drivesdk](https://drive.google.com/file/d/1GvJV1_DVAyoB10qwzDjfJKy8Q-LKx1XD/view?usp=drivesdk)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1GvJV1_DVAyoB10qwzDjfJKy8Q-LKx1XD/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
