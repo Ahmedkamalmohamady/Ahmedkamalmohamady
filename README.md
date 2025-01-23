@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Cloud & DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
